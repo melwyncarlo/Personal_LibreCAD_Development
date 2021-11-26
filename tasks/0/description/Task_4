@@ -1,0 +1,7 @@
+
+Pull-request #1409
+
+Solved issue #1396 :  Dimension lines do not move to new layer when text alignment is set to Horizontal
+
+BOTH the bugs mentioned in this issue have been resolved.
+

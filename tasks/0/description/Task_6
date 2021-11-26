@@ -1,0 +1,7 @@
+
+Pull-request #1411
+
+Solved issue #1369 :  Allow "Application Preferences" when no document is open
+
+If needed, some other options, too, could be kept enabled.
+

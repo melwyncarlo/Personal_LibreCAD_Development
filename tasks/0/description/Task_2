@@ -1,0 +1,10 @@
+
+Pull-request #1407
+
+Solved issue #1395 :  spline through points: snap on middle point fails for last one, when more than one middle point is used
+
+The code talks about splines, but bears the equation of a quadratic Bézier curve.
+Also, there is an analytic equation (which is generic) to compute the n-th degree Bézier curve,
+but the author of the code uses a very different approach (which is not compatible with the
+aforementioned analytic equation).
+

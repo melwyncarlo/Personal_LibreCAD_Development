@@ -1,0 +1,7 @@
+
+Pull-request #1410
+
+Solved issue #1368 :  Bug: Mouse icon is really big in v2.2.0-rc2
+Solved issue #1303 :  Status bar redimensioning: mouse image is not redimensioned
+Solved issue #1026 :  status bar is resized during showMessage()
+

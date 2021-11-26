@@ -1,0 +1,10 @@
+
+Pull-request #1425
+
+Solved issue #1393 :  Options for Relative zero position
+
+Features added:
+1. Checkbox at `Application Preferences -> Graphic View -> Hide the relative-zero marker`
+2. Colorbox at `Application Preferences -> Graphic Colors -> Relative-Zero Marker Color`
+3. Enable/disable the `Set relative zero position` and `Lock relative zero position` buttons on showing/hiding the marker
+

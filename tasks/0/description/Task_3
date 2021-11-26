@@ -1,0 +1,7 @@
+
+Pull-request #1408
+
+Feature: Safely discard deleted block
+
+Earlier upon deleting a given block from the block list, you could not create a new block bearing the same name; well, now you can.
+

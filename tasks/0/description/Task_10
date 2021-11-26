@@ -1,0 +1,23 @@
+
+Pull-request #1416
+
+Solved the 'unupdated status bar on focus out' issue
+
+Prior to this code, the status bar information (especially the coordinates) just freezes when the mouse focuses outside of the graphics view, and also when a file is closed.
+
+I have implemented a method to hide the widgets within the status bar when the mouse focuses out,
+and show the widgets when the mouse focuses inside one of the graphic views (i.e. one of the open files).
+
+This method will not (should not) come in the way of status bar messages.
+The status bar messages will continue to show regardless.
+
+---
+
+Also, regarding the status bar message timeout:
+there were magic numbers of 2000 scattered throughout the qc_applicationwindow.cpp file.
+2000 stands for 2000 milliseconds (or just 2 seconds), which is the time for which
+the status bar message will be displayed.
+
+I've assigned them a common constant variable at the top of the file.
+This would make future edits simpler.
+

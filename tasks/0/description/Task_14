@@ -1,0 +1,13 @@
+
+Pull-request #1422
+
+Removed the 'All files' and 'Any files' options from the 'Import Image' and 'Export PDF' dialogs respectively
+
+In the Import Image and Export PDF dialogs, the 'All files' type amongst other options, makes no sense.
+
+The Export SVG and Export Image dialogs do not have them. 
+Then, why do the Import Image and Export PDF dialogs have them?
+
+How would the 'Any files' option benefit the export of a specific type of file (e.g. PDF)?
+Wouldn't the import of 'All files' whilst importing specific image file types lead to bugs and/or unpredictable behaviour?
+

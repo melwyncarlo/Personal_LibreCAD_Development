@@ -1,0 +1,10 @@
+
+Pull-request #1431
+
+Solved issue #1333, and a bit more :  Feature Request: Display Name of selected Block in Status Line
+
+Displays the name of the selected block in the status bar as: Block 'X' selected
+Displays the name of the selected layer in the status bar as: Layer 'X' selected
+
+where X is the block / layer name.
+

@@ -1,0 +1,17 @@
+
+Pull-request #1424
+
+Advanced Snap Middle Manual Tool
+
+Solved issue #1421 :  Feature request: add button to snap middle manual
+
+This tool can snap (set) the relative-zero marker in the middle between two points chosen by the user.
+
+The middle point, by default, rests at a poistion 50% relative to the position of the first point chosen, that is, at the center of the imaginary line connecting the two user-defined points.
+
+This percentage, however, can be modified by the user in order to place the marker at a different position along the imaginary line.
+
+Video link : https://youtu.be/XZU929ykxvg
+
+In the video, the dotted lines seemed too faint, so I changed them to dots-and-dashes.
+

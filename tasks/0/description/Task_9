@@ -1,0 +1,23 @@
+
+Pull-request #1415
+
+Resolved the 'open existing/deleted file' issues
+
+In both stable and development versions,
+
+if you open up an already open (existing) file, it is supposed to show a warning; which it does.
+
+But then it also opens up another copy of the same file.
+
+I've solved that issue. Now, it no longer opens up multiple copies of the same file;
+it shows the warning, as usual, and that's it; it safely returns back from the slotFileOpen function.
+
+---
+
+Also, upon attempting to open a deleted file from the recently open menu, it shows the aborted error message;
+but it does not remove the file listing from the recent menu. I've added a bit of code that removes that particular
+file name from the recent menu.
+
+There is an add function in the qg_recentfiles.cpp file.
+I have included a simple remove function to it.
+

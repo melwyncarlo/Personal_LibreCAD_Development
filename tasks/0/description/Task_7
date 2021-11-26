@@ -1,0 +1,11 @@
+
+Pull-request #1413
+
+Solved issue #1372 :  Feature request: On-the-fly dimension units
+
+I created the abbreviations by referring to a LibreCAD User Manual (Release 2.2.0):
+https://librecad.readthedocs.io/en/latest/appx/measurements.html#systems-of-measurement
+
+I did not implement the micro μ symbol, because no one is going to use it. I used the term, mu, instead.
+If the abbreviations need any changes or corrections, do let me know.
+
