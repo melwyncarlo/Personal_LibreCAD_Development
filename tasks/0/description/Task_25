@@ -1,0 +1,20 @@
+
+Pull-request #1436
+
+Solved issue #1327 :  Feature Request: Save a single layer as a dxf
+
+Using this tool, you may now save either selected layers or visible layers, 
+either as individual drawing files, or combined into a single drawing file. 
+The layer names and attributes are saved as well.
+
+To accomplish this task, I have also created the LC_FileDialogService class. 
+This class centralizes the file I/O user interface. So, basically, 
+this file dialog can be made to serve multiple purposes by tweaking 
+the *.cpp file itself, and passing in just one argument: 
+the FileDialogMode enumeration. 
+
+This enumeration tells the class functions how to design the file dialog. 
+So, for example, a specific dialog title, specific file filters, 
+and particularly, in my case, the Checkbox element embedded 
+within the file dialog.
+

@@ -8,9 +8,10 @@
 | 2 | Task 16 - Developed Snap Middle Manual Tool | [Click here](https://youtu.be/XZU929ykxvg) |
 | 3 | Task 17 - Solved issue #1340 - Attempt #1 | [Click here](https://youtu.be/ieTcJlH8VBw) |
 | 4 | Task 17 - Solved issue #1340 - Attempt #2 | [Click here](https://youtu.be/4kWNuREhMd0) |
-| 5 | Task 17 - Solved issue #1340 - Attempt #3 | [Click here](https://youtu.be/xxxxx) |
+| 5 | Task 17 - Solved issue #1340 - Delete a polyline node promptly tool | [Click here](https://youtu.be/5V2zIMPchfM) |
 | 6 | Task 18 - Solved issue #1393 | [Click here](https://youtu.be/2VstFRewuiw) |
 | 7 | Task 19 - Developed Snap Bilinear Intersection Tool | [Click here](https://youtu.be/tim_ZlNXp5E) |
 | 8 | Task 20 - Developed Snap Point Line Intersection Tool | [Click here](https://youtu.be/pkdx8qKABLw) |
-| 9 | LibreCAD Manipulating Mouse Selection | [Click here](https://youtu.be/mRHjYz3z70M) |
+| 9 | Task 25 - Developed Export Selected or Visible Layers Tool | [Click here](https://youtu.be/9_qHtZfwMdY) |
+| 10 | LibreCAD Manipulating Mouse Selection | [Click here](https://youtu.be/mRHjYz3z70M) |
 

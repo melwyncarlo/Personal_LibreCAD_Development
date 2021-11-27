@@ -1,0 +1,10 @@
+
+Pull-request #1435
+
+Solved issue #1340 :  Feature Request: Delete a point from lines
+
+You can now delete nodes from both polylines and sets of lines,
+via the menu, or by using the Ctrl+D shortcut key sequence.
+
+You can also undo/redo the changes made.
+
