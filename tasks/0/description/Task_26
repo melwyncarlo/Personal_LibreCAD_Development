@@ -1,0 +1,8 @@
+
+Pull-request #1437
+
+Solved issue #1344 :  Copy paste block from clipboard adds new block names to block list
+
+New blocks are no longer created (cloned) upon cut/copy/paste; 
+just their instances are inserted into the current working layer.
+

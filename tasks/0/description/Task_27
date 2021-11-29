@@ -1,0 +1,11 @@
+
+Pull-request #1438
+
+Set relative zero while doing copy/paste, w.r.t issue #1404
+
+In the file rs_actionmodifymove.cpp (which deals with the Cut operation), 
+at line numbers 139 and 145, the moveRelativeZero() functions are present. 
+However, they were not present in the Copy and Paste class files; now they are.
+
+As @gerardbm had stated, it assists in copy-pasting at the correct locations.
+

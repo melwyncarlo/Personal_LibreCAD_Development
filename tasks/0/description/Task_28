@@ -1,0 +1,15 @@
+
+Pull-request #1440
+
+Solved issue #1386 :  Tangent 3 Circles tool fails randomly with parallel lines
+
+It fails because the two parallel lines always registered as intersecting lines. 
+The actual problem lies in the RS_Math::linearSolver() function that is 
+called by the LC_Quadratic::getIntersection() function.
+
+The tolerance set was too low (TOLERANCE2 = 1.0E-20), and such a tolerance 
+(by its definition) is only meant to be used when dealing with 
+decimal multiplication. I've set it to the basic TOLERANCE = 1.0E-10.
+
+It seems to be working all fine now.
+
