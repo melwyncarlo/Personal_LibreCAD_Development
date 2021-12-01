@@ -1,0 +1,7 @@
+
+Pull-request #1447
+
+Solved issue #1134 :  Unexpected results with polyline from command line (wrong line mode)
+
+Polyline mode, radius, and angle can now be set from the command line itself.
+

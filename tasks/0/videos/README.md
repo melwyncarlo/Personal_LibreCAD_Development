@@ -13,9 +13,11 @@
 | 7 | Task 19 - Developed Snap Bilinear Intersection Tool | [Click here](https://youtu.be/tim_ZlNXp5E) |
 | 8 | Task 20 - Developed Snap Point Line Intersection Tool | [Click here](https://youtu.be/pkdx8qKABLw) |
 | 9 | Task 25 - Developed Export Selected or Visible Layers Tool | [Click here](https://youtu.be/9_qHtZfwMdY) |
-| 9 | Task 26 - Solved issue #1344 | [Click here](https://youtu.be/Aarju_tMJIQ) |
-| 9 | Task 28 - Solved issue #1386 | [Click here](https://youtu.be/ldPNDQmRnqA) |
-| 9 | Task 32 - Solved issue #1288 - Line Circle Tangency Problem | [Click here](https://youtu.be/PoRqCuHhvwA) |
-| 10 | LibreCAD Manipulating Mouse Selection | [Click here](https://youtu.be/mRHjYz3z70M) |
-| 10 | LibreCAD Copy Paste Shortcuts | [Click here](https://youtu.be/JC10MPmHdCs) |
+| 10 | Task 26 - Solved issue #1344 | [Click here](https://youtu.be/Aarju_tMJIQ) |
+| 11 | Task 28 - Solved issue #1386 | [Click here](https://youtu.be/ldPNDQmRnqA) |
+| 12 | Task 32 - Solved issue #1288 - Line Circle Tangency Problem | [Click here](https://youtu.be/PoRqCuHhvwA) |
+| 13 | Task 34 - Solved issue #1134 - Polyline Commands Tool | [Click here](https://youtu.be/iw5Fb6f6gGk) |
+| 14 | Task 35 - Polyline Equations in Command | [Click here](https://youtu.be/6IlKiwm-mlg) |
+| 15 | LibreCAD Manipulating Mouse Selection | [Click here](https://youtu.be/mRHjYz3z70M) |
+| 16 | LibreCAD Copy Paste Shortcuts | [Click here](https://youtu.be/JC10MPmHdCs) |
 
