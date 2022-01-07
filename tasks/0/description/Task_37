@@ -1,0 +1,8 @@
+
+Pull-request #1454
+
+Radial dimensional text gap for horizontal alignment.
+
+Code refactoring, which nullifies the code changes to the `rs_dimradial.cpp` 
+file in Task_30 (pull request #1442), while solving issue #1328.
+

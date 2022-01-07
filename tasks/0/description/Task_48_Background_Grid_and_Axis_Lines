@@ -1,0 +1,10 @@
+
+Pull-request #1497
+
+Solved issue #1477 :  Add More Background Grids.
+
+* Created a new lines-based grid (mimicking AutoCAD)
+* Provided option to switch grids
+* Extended axis lines
+* Provided option to extend axis lines
+

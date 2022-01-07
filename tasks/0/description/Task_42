@@ -1,0 +1,8 @@
+
+Pull-request #1460
+
+Solved issue #901 :  Current Layer Visibility.
+
+I solved this problem by disabling CAD tools and relevant menus when 
+the currently active layer is either locked or invisible.
+

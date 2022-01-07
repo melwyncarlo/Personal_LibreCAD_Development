@@ -1,0 +1,6 @@
+
+Pull-request #1485
+
+Solved issue #1459 :  Elipse center with 3 points causes freeze when choosing second point.
+Solved issue #484  :  Circles, the "Snap Intersection" does not work for large coordinates.
+
